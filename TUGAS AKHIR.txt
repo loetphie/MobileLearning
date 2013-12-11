@@ -1,0 +1,17 @@
+PENILAIAN
+
+teknis fungsi
+kaidah pembelajaran
+multidevice
+LMS : ragam resource dan activities
+konten dijadikan mob apps url share
+LMS dikumpulkan berupa file backup
+
+subtema 1 
+pempelajaran 3 contain HTML/IMS
+pembelajaran 4 LMS
+
+
+https://github.com/loetphie/MobileLearning.git
+
+git@github.com:loetphie/MobileLearning.git
